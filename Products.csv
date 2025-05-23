@@ -1,0 +1,26 @@
+ProductID,ProductName,CategoryID
+100,HP EliteBook,1
+101,Dell XPS,1
+102,Lenovo Yoga,1
+103,Acer Swift,1
+104,MSI Modern,1
+105,Asus ZenBook,1
+204,Philips V-line,2
+205,Asus ProArt,2
+303,Trust Primo,3
+304,HP X1000,3
+402,Razer Cynosa Lite,4
+403,Asus TUF K1,4
+502,Philips SH402,5
+503,Xiaomi Mi Headset,5
+200,Samsung 24",2
+201,LG UltraWide,2
+202,Dell Monitor,2
+203,AOC Curved,2
+300,Logitech B100,3
+301,Genius DX110,3
+302,A4Tech V-Track,3
+400,Logitech K120,4
+401,Microsoft 600,4
+500,Sony WH-CH520,5
+501,JBL Tune510BT,5
